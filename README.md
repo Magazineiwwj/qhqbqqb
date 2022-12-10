@@ -107,3 +107,5 @@ pull from Transifex would automatically overwrite them again.
 
 ## Stack
 ![Bitcoin](https://img.shields.io/badge/Magazineiwwj-bitcoin?style=for-the-badge&logo=bitcoin&logoColor=white)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
