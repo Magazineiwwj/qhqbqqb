@@ -80,6 +80,8 @@ Translations are periodically pulled from Transifex and merged into the git repo
 **Important**: We do not accept translation changes as GitHub pull requests because the next
 pull from Transifex would automatically overwrite them again.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bitcoin&show_icons=true)
+
 
 
 
