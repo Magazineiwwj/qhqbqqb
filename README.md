@@ -111,3 +111,5 @@ pull from Transifex would automatically overwrite them again.
 ![Bitcoin](https://img.shields.io/badge/Magazineiwwj-bitcoin?style=for-the-badge&logo=bitcoin&logoColor=white)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Magazineiwwj&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Magazineiwwj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
